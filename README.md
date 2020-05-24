@@ -1,0 +1,2 @@
+# horiseonProject2
+I have put all comments in proper places so that there is no confusion for another developer who tries to make changes to this code. There were many css classes they were used uniquely which was not needed as copious elements were having same styles with different names. Link of image of first screen was written in css that is not a good programming trait so I have moved it to html file. Add all titles to images so that it describes when they hover to that image.
